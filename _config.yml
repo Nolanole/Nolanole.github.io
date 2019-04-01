@@ -25,6 +25,7 @@ description: Personal Homepage and Work Showcase featuring cool data science pro
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Lambda School: "https://lambdaschool.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
